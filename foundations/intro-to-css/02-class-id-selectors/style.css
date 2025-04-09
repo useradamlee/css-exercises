@@ -1,0 +1,19 @@
+.all-p {
+    background-color: #ff000080;
+    font-family: Verdana, sans-serif;
+}
+
+.only-3 {
+    font-size: 30px;
+}
+
+#no2 {
+    color: blue;
+    font-size: 40px;
+}
+
+#no4 {
+    background-color: rgba(0, 255, 0, 0.6);
+    font-size: 30px;
+    font-weight: bold;
+}
