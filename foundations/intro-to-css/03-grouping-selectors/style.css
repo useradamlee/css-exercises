@@ -1,3 +1,13 @@
 .fonts {
-    
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
+
+.blackbutton {
+    color:white;
+    background-color: black
+}
+
+.yellowbutton {
+    background-color: yellow;
 }
